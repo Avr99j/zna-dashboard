@@ -132,8 +132,8 @@ const GenAIDashboard = () => {
     { name: 'Sprint 0', status: 'Completed', endDate: 'Jul 28', phase: 'Kick off & Onboarding' },
     { name: 'Sprint 1', status: 'Completed', endDate: 'Aug 25', phase: 'Execution with GenAI' },
     { name: 'Sprint 2', status: 'Completed', endDate: 'Sep 12', phase: 'Execution with GenAI' },
-    { name: 'Sprint 3', status: 'In Progress', endDate: 'Sep 19', phase: 'Execution with GenAI' },
-    { name: 'Sprint 4', status: 'Planned', endDate: 'Oct 6', phase: 'Report Out' }
+    { name: 'Sprint 3', status: 'Completed', endDate: 'Sep 19', phase: 'Execution with GenAI' },
+    { name: 'Sprint 4', status: 'In Progress', endDate: 'Oct 6', phase: 'Report Out' }
   ];
 
   const [selectedView, setSelectedView] = useState('executive');
