@@ -4,8 +4,8 @@ import { TrendingUp, CheckCircle, Users, Target, Calendar, Activity, Download, M
 
 const GenAIDashboard = () => {
   const reportConfig = {
-    reportDate: 'September 12, 2025',
-    weekNumber: 'Week 1209',
+    reportDate: 'September 26, 2025',
+    weekNumber: 'Week 0926',
     overallStatus: 'On Track',
     reportOutDate: 'October 10, 2025'
   };
